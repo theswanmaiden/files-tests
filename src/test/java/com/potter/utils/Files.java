@@ -1,4 +1,4 @@
-package utils;
+package com.potter.utils;
 
 import com.codeborne.pdftest.PDF;
 import com.codeborne.xlstest.XLS;

@@ -1,14 +1,13 @@
 package com.potter;
 
 import com.codeborne.xlstest.XLS;
-import org.hamcrest.MatcherAssert;
 import org.junit.jupiter.api.Test;
 
 import java.io.IOException;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.containsString;
-import static utils.Files.*;
+import static com.potter.utils.Files.*;
 
 
 public class XLSTest {

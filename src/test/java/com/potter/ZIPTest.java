@@ -1,13 +1,9 @@
 package com.potter;
 
 import net.lingala.zip4j.ZipFile;
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import utils.Files;
+import com.potter.utils.Files;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
 import java.io.IOException;
 
 import static org.hamcrest.MatcherAssert.assertThat;
